@@ -1,5 +1,5 @@
 window.SITE_CONFIG = {
-  companyName: 'GARENT Filo',
+  companyName: 'GARENT FİLO',
   phoneDisplay: '905543423514',
   phoneRaw: '905543423514',
   whatsappRaw: '905530752552',
